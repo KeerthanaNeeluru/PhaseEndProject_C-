@@ -1,0 +1,8 @@
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\PhaseEndProjects\PlayerAndTeam\PlayerAndTeam\bin\Debug\PlayerAndTeam.exe.config
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\PhaseEndProjects\PlayerAndTeam\PlayerAndTeam\bin\Debug\PlayerAndTeam.exe
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\PhaseEndProjects\PlayerAndTeam\PlayerAndTeam\bin\Debug\PlayerAndTeam.pdb
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\PhaseEndProjects\PlayerAndTeam\PlayerAndTeam\obj\Debug\PlayerAndTeam.csproj.AssemblyReference.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\PhaseEndProjects\PlayerAndTeam\PlayerAndTeam\obj\Debug\PlayerAndTeam.csproj.SuggestedBindingRedirects.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\PhaseEndProjects\PlayerAndTeam\PlayerAndTeam\obj\Debug\PlayerAndTeam.csproj.CoreCompileInputs.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\PhaseEndProjects\PlayerAndTeam\PlayerAndTeam\obj\Debug\PlayerAndTeam.exe
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\PhaseEndProjects\PlayerAndTeam\PlayerAndTeam\obj\Debug\PlayerAndTeam.pdb
