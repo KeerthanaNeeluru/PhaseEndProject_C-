@@ -1,0 +1,8 @@
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\PhaseEndProjects\TextFileBased\TextFileBased\bin\Debug\TextFileBased.exe.config
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\PhaseEndProjects\TextFileBased\TextFileBased\bin\Debug\TextFileBased.exe
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\PhaseEndProjects\TextFileBased\TextFileBased\bin\Debug\TextFileBased.pdb
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\PhaseEndProjects\TextFileBased\TextFileBased\obj\Debug\TextFileBased.csproj.AssemblyReference.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\PhaseEndProjects\TextFileBased\TextFileBased\obj\Debug\TextFileBased.csproj.SuggestedBindingRedirects.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\PhaseEndProjects\TextFileBased\TextFileBased\obj\Debug\TextFileBased.csproj.CoreCompileInputs.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\PhaseEndProjects\TextFileBased\TextFileBased\obj\Debug\TextFileBased.exe
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\PhaseEndProjects\TextFileBased\TextFileBased\obj\Debug\TextFileBased.pdb
